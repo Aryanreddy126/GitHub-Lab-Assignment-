@@ -3,6 +3,8 @@
 int main() {
     int num1, num2, sum;
 
+//hi hello
+    
     // Input two numbers
     printf("Enter two numbers: ");
     scanf("%d %d", &num1, &num2);
